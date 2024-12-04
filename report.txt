@@ -1,0 +1,5 @@
+Total requests: 6
+Unique IPs: 4
+Method counts:       5 GET
+      1 POST
+Most popular URL: /index.html
